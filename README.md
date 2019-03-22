@@ -7,29 +7,8 @@
 </p>
 
 <h2 align="center">Supporting Pig Developer Team</h2> 
-
-   
-### 在线体验
-地址： http://preview.pig4cloud.com
-
-### 项目官网
-文档、视频：https://pig4cloud.com
-
-### 配套代码
-<a href="https://gitee.com/log4j/pig-ui" target="_blank">pig-ui</a>、<a href="https://gitee.com/cqzqxq_lxh/pig-config" target="_blank">pig-config</a>  
-
-### 前端解决方案
-https://gitee.com/smallweigit/avue
-
-### 分支介绍
-分支 | 介绍
----|---
-master | 稳定版本，推荐使用  
-dev | 开发分支，bug修复分支
-local | 配置中心本地化，开发使用不建议生产
-redis | 提供cachecloud的整合方案
  
- ### now
+ ### 目录结构
 ``` lua
 pig
 ├── pig-ui -- element-vue-admin实现[9528]
@@ -71,9 +50,6 @@ pig
 - zipkin链路追踪： 数据保存ELK，图形化展示
 - pinpoint链路追踪： 数据保存hbase，图形化展示
 
-欢迎加入交流群，互相学习  
-一键加群：<a target="_blank" href="https://jq.qq.com/?_wv=1027&k=5zWEvg5"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png"></a>   
-![image](http://oss.wjg95.cn/pig_qq_qun.png)
 
 ### 截图 （点击可大图预览）
 <table>
